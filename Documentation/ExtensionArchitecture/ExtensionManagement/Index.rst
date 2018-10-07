@@ -32,7 +32,7 @@ There are only two (possibly three) steps involved in using extensions with TYPO
 
 #. You must *import* it.
 
-   This simply means to copy the extensions files into the correct directory into.
+   This simply means to copy the extensions files into the correct directory.
    More commonly you import an extension directly from the online TYPO3 Extension Repository (TER)
    using the Extension Manager. When an extension is found located in one of the extension locations,
    it is  *available* to the system.
